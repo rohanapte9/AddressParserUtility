@@ -4,7 +4,8 @@ import json
 
 class CleanAddress:
   '''
-    An address provider returns addresses only with concatenated street names and numbers. Our own system on the other hand has separate fields for street name and street number.
+    An address provider returns addresses only with concatenated street names and numbers. 
+    Our own system on the other hand has separate fields for street name and street number.
 
     CleanAddress Class is created for parsing the concatenated addresses to extract 
       - The House Number  
