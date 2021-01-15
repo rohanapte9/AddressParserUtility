@@ -49,7 +49,7 @@ class CleanAddress:
         result['street'] = re.search(NameFirstNm,addressline).group().replace(",",'').strip()
         result['housenumber'] = re.search(NameFirstNo,addressline).group().replace(",",'').strip()
     else:
-        # If the String matches Pattern Set 2 perform the following steps
+      # If the String matches Pattern Set 2 perform the following steps
       objNoFirst = re.search(NoFirstPattern,addressline)
       if objNoFirst:
         result['street'] = re.search(NoFirstNm,addressline).group().replace(",",'').strip()
