@@ -1,0 +1,14 @@
+21:13:21.748427  Testing with Simple Address Lines
+21:13:21.748427  Reading Test Data
+21:13:21.764140  ---- Iteration 0 Started ----
+21:13:21.764140  Testing for Address Line: Am Bächle 23
+21:13:21.769463  Results were: {"housenumber": "23", "street": "Am B\u00e4chle"}
+21:13:21.770481  Verification Successful.
+21:13:21.770481  ---- Iteration 0 Finished ----
+
+21:13:21.771480  ---- Iteration 1 Started ----
+21:13:21.771822  Testing for Address Line: Auf der Vogelwiese 23 b
+21:13:21.771822  Results were: {"housenumber": "23 b", "street": "Auf der Vogelwiese"}
+21:13:21.772821  Verification Successful.
+21:13:21.773011  ---- Iteration 1 Finished ----
+

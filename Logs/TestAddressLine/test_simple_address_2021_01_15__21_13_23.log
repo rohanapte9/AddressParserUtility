@@ -1,0 +1,20 @@
+21:13:23.762773  Testing with Simple Address Lines
+21:13:23.762773  Reading Test Data
+21:13:23.771817  ---- Iteration 0 Started ----
+21:13:23.772227  Testing for Address Line: Winterallee 3
+21:13:23.772227  Results were: {"housenumber": "3", "street": "Winterallee"}
+21:13:23.772227  Verification Successful.
+21:13:23.772227  ---- Iteration 0 Finished ----
+
+21:13:23.773265  ---- Iteration 1 Started ----
+21:13:23.773265  Testing for Address Line: Musterstrasse 45
+21:13:23.773265  Results were: {"housenumber": "45", "street": "Musterstrasse"}
+21:13:23.773265  Verification Successful.
+21:13:23.774382  ---- Iteration 1 Finished ----
+
+21:13:23.774382  ---- Iteration 2 Started ----
+21:13:23.775380  Testing for Address Line: Blaufeldweg 123B
+21:13:23.775634  Results were: {"housenumber": "123B", "street": "Blaufeldweg"}
+21:13:23.775634  Verification Successful.
+21:13:23.775634  ---- Iteration 2 Finished ----
+

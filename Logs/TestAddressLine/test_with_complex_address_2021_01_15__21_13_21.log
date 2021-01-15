@@ -1,0 +1,26 @@
+21:13:21.775991  Testing with Simple Address Lines
+21:13:21.775991  Reading Test Data
+21:13:21.781023  ---- Iteration 0 Started ----
+21:13:21.781023  Testing for Address Line: 4, rue de la revolution
+21:13:23.744441  Results were: {"housenumber": "4", "street": "rue de la revolution"}
+21:13:23.744441  Verification Successful.
+21:13:23.751890  ---- Iteration 0 Finished ----
+
+21:13:23.751890  ---- Iteration 1 Started ----
+21:13:23.751890  Testing for Address Line: 200 Broadway Av
+21:13:23.753883  Results were: {"housenumber": "200", "street": "Broadway Av"}
+21:13:23.755103  Verification Successful.
+21:13:23.755103  ---- Iteration 1 Finished ----
+
+21:13:23.756115  ---- Iteration 2 Started ----
+21:13:23.756115  Testing for Address Line: Calle Aduana, 29
+21:13:23.757159  Results were: {"housenumber": "29", "street": "Calle Aduana"}
+21:13:23.757159  Verification Successful.
+21:13:23.757159  ---- Iteration 2 Finished ----
+
+21:13:23.758157  ---- Iteration 3 Started ----
+21:13:23.758411  Testing for Address Line: Calle 39 No 1540
+21:13:23.758411  Results were: {"housenumber": "No 1540", "street": "Calle 39"}
+21:13:23.758411  Verification Successful.
+21:13:23.758411  ---- Iteration 3 Finished ----
+
